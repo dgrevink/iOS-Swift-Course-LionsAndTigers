@@ -7,3 +7,11 @@
 //
 
 import Foundation
+import UIKit
+
+struct Tiger {
+    var age = 0
+    var name = "No name given !"
+    var breed = "No breed given !"
+    var image = UIImage(named: "")
+}
